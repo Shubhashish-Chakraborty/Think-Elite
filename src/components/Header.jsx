@@ -16,7 +16,7 @@ export const WebDetail = () => {
         />
       </div>
       <div className="md:ml-8 p-4 md:p-6 content-box shadow-lg rounded-lg w-full">
-        <h1 className="text-2xl md:text-3xl font-bold mb-4 text-gray-800 animate-typing overflow-hidden whitespace-nowrap border-r-4 border-gray-800">
+        <h1 className="text-2xl md:text-3xl font-bold mb-4 text-orange-400 overflow-hidden whitespace-nowrap border-r-4 border-gray-800 animate-pulse">
           By Shubhashish Chakraborty
         </h1>
         <p className="text-base md:text-lg text-cyan-200">
